@@ -6,4 +6,8 @@ public class HomePage {
     //this is the navigation menu
 
     // new update
+
+    //add more things
+
+    //footer
 }
